@@ -21,5 +21,6 @@ Entorno de Escritorio: Wayland
 versión del nucleo: Linux 7.0.0-30-generic
 
 ### 🖥️ Computadora 2 (Renata Monaldi)
+
 ### 🖥️ Computadora 3 (Lautaro Bazan)
 
