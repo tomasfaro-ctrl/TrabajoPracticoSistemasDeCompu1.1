@@ -4,8 +4,11 @@ Grupo: Sindicato de computadoras
 
 ### Integrantes: 
 Renata Monaldi
+
 Tomas Faro
+
 Lautaro Bazan
+### breve resumen del repositorio:
 
 Este repositorio cuenta con un txt en el cual hay dos links, uno con acceso a un drive con fotos de los resultados, otro con acceso a un docs del informe
 A su vez se encuentran distintas carpetas nominadas con el numero de ejercicio y sus fotos y codigos.
